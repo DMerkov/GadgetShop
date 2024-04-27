@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mobile
+comment0.text=\r\n\ The\ main\ purpose\ of\ the\ Mobile\ class\ is\ representing\ a\ mobile\ device\ in\ the\ gadget\ shop.\r\n\ Inheritance\ extends\ Mobile\ class\ and\ showing\ that\ a\ mobile\ device\ is\ a\ type\ of\ gadget.\r\n
+comment1.params=model\ price\ weight\ size\ credit
+comment1.target=Mobile(java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment1.text=\ Constructor\r\n\ \ \ \ /*\r\n\ The\ constructor\ builds\ a\ new\ Mobile\ Object\ with\ the\ characteristics\ specified.\ \r\n
+comment2.params=
+comment2.target=int\ getCredit()
+comment2.text=\r\n\ Method\ to\ getCredit\r\n
+comment3.params=credit
+comment3.target=void\ setCredit(int)
+comment3.text=\r\n\ Method\ to\ set\ Credit\r\n
+comment4.params=phoneNumber\ duration
+comment4.target=void\ makeACall(java.lang.String,\ int)
+comment4.text=\r\n\ Method\ to\ make\ a\ call\r\n
+numComments=5

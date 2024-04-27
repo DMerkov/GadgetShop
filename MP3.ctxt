@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MP3
+comment0.text=\r\n\ This\ class\ represent\ an\ MP3\ gadget.\ \r\n\ It\ Contains\ a\ variable\ "memory"\ to\ store\ the\ memory\ of\ mp3\ gadget.\r\n
+comment1.params=model\ price\ weight\ size\ memory
+comment1.target=MP3(java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=int\ getMemory()
+comment2.text=\r\n\ Getter\ and\ setter\ for\ Memory\r\n
+comment3.params=memory
+comment3.target=void\ setMemory(int)
+comment4.params=downloadSize
+comment4.target=void\ insertDownload(int)
+comment4.text=\r\n\ Method\ to\ insert\ download\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Gadget
+comment0.text=\r\n\ This\ is\ a\ Main\ Class/Super\ for\ the\ GadgetProject-coursework.\r\n\ \r\n
+comment1.params=model\ price\ weight\ size
+comment1.target=Gadget(java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ method-\ the\ role\ of\ this\ class\ is\ to\ establish\ new\ examples\ of\ gadgets.\r\n\ It\ is\ capable\ for\ pleace\ initial\ values\ for\ the\ assign\ new\ objects\ when\ are\ creted.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getModel()
+comment2.text=\r\n\ Get\ Model\ method\ \r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ Get\ Price\ method\r\n
+comment4.params=
+comment4.target=int\ getWeight()
+comment4.text=\r\n\ Get\ Weight\ method\r\n
+comment5.params=
+comment5.target=java.lang.String\ getSize()
+comment5.text=\r\n\ Get\ Size\ method\r\n
+numComments=6
